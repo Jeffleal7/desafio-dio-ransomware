@@ -35,4 +35,4 @@ Este projeto foi desenvolvido como parte de avaliação de desafio da `Formaçã
 </table>
 
 ##
-<div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a>.</div>
+<div align="center">Feito por <a href="https://github.com/rhayssakramer">@jeffleal.7</a>.</div>
