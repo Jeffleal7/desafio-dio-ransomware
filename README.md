@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como parte de avaliação de desafio da `Formaçã
   <tr>
     <td align="left">
       <a href="https://github.com/rhayssakramer">
-        <span><b>Jefferson Kramer</b></span>
+        <span><b>Jefferson Leal</b></span>
       </a>
       <br>
       <span>Assoc, Full-Stack Development</span>
@@ -36,7 +36,3 @@ Este projeto foi desenvolvido como parte de avaliação de desafio da `Formaçã
 
 ##
 <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a>.</div>
-
-👩🏼‍💻 Autoria:
-
-Jefferson Leal
